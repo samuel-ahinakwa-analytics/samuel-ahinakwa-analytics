@@ -72,7 +72,7 @@ A logistics company was experiencing a capacity crisis. The assumption was that 
 | MSc Accounting and Finance | Kwame Nkrumah University of Science and Technology |
 | BSc Business Administration (Accounting) | Community University College, Ghana |
 | ICAG Chartered Accountancy Finalist (13/14 papers) | Institute of Chartered Accountants, Ghana |
-| Data Analytics Programme — Power BI · SQL · Tableau · Python | Amdari Consulting (2024) |
+| Data Analytics Programme — Power BI · SQL · Tableau · | Amdari Consulting (2024) |
 
 ---
 
